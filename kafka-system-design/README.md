@@ -1,5 +1,5 @@
 # Kafka For System Design Interviews
-## _My Notes On Postgres Features_
+## _My Notes On Kafka For System Design Interviews_
 
 Kafka is used by many top tech companies as a streaming solution. Kafka is too big to learn or memorize all of it.
 
